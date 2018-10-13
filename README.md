@@ -1,2 +1,2 @@
-# allwords
-All words of each languages
+# All Words
+This reposetory aims to list all the word of every languges.
