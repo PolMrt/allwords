@@ -28,5 +28,5 @@ Ce repository a pour but de lister tout les mots de toutes les langues.
 ----
 
 ### Sources ℹ
-> FR - <br>
+> FR - https://www.freelang.com/dictionnaire/dic-francais.php<br>
 > EN - https://github.com/dwyl/english-words
