@@ -10,7 +10,7 @@
 ----
 
 ### Readme in english 🇬🇧
-This reposetory aims to list all the word of every languges.
+This reposetory aims to list all the word of every languages.
 #### Todo
  - [🇬🇧] Review some word because there are too many and some wrong
  - ~~[🇫🇷] Take some words from [this list](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) because this one contains more words (336531 instead of 22741 for the actual one)~~
