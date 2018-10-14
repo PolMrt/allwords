@@ -3,6 +3,7 @@
 ## Menu
 - [Readme in english 🇬🇧](https://github.com/PolMrt/allwords#readme-in-english-)
 - [Readme en Français 🇫🇷](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-)
+- [Readme en español 🇪🇸](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-)
 - [Sources ℹ](https://github.com/PolMrt/allwords#sources-%E2%84%B9)
 
 ----
@@ -25,6 +26,11 @@ Ce repository a pour but de lister tout les mots de toutes les langues.
  - [🇬🇧] Réviser les mots car il y en a trop et des des inutiles
  - [🇫🇷] Prendre des mots de [cette liste](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) car elle est plus complète que la liste actuelle (336531 au lieu de 22741 pour la liste actuelle)
  
+
+----
+
+### Readme en español 🇪🇸
+Busca ayuda
 
 ----
 
