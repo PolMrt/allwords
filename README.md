@@ -3,7 +3,7 @@
 ## Menu
 - [Readme in english 🇬🇧](https://github.com/PolMrt/allwords#readme-in-english-)
 - [Readme en Français 🇫🇷](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-)
-- [Readme en español 🇪🇸](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-)
+- [Readme en español 🇪🇸](https://github.com/PolMrt/allwords#readme-en-espa%C3%B1ol-)
 - [Sources ℹ](https://github.com/PolMrt/allwords#sources-%E2%84%B9)
 
 ----
