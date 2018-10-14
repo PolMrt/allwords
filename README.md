@@ -13,7 +13,7 @@
 This reposetory aims to list all the word of every languges.
 #### Todo
  - [🇬🇧] Review some word because there are too many and some wrong
- - [🇫🇷] Take some words from [this list](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) because this one contains more words (336531 instead of 22741 for the actual one)
+ - ~~[🇫🇷] Take some words from [this list](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) because this one contains more words (336531 instead of 22741 for the actual one)~~
 
 
 
@@ -25,7 +25,7 @@ This reposetory aims to list all the word of every languges.
 Ce repository a pour but de lister tout les mots de toutes les langues.
 #### Todo
  - [🇬🇧] Réviser les mots car il y en a trop et des des inutiles
- - [🇫🇷] Prendre des mots de [cette liste](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) car elle est plus complète que la liste actuelle (336531 au lieu de 22741 pour la liste actuelle)
+ - ~~[🇫🇷] Prendre des mots de [cette liste](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) car elle est plus complète que la liste actuelle (336531 au lieu de 22741 pour la liste actuelle)~~
 
 
 ----
