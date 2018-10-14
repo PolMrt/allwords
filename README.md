@@ -44,4 +44,4 @@ Help needed
 > FR - [freelang.com](https://www.freelang.com/dictionnaire/dic-francais.php), [github.com/mmai/chiensuperieur](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt)<br>
 > EN - [github.com/dwyl/english-words](https://github.com/dwyl/english-words)<br>
 > SP - [github.com/words/an-array-of-spanish-words](https://github.com/words/an-array-of-spanish-words/blob/master/corpus.txt)<br>
-> PT [github.com/hexapode/an-array-of-portuguese-words](https://github.com/hexapode/an-array-of-portuguese-words/blob/master/words.json)
+> PT - [github.com/hexapode/an-array-of-portuguese-words](https://github.com/hexapode/an-array-of-portuguese-words/blob/master/words.json)
