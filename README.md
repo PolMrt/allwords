@@ -16,7 +16,7 @@ This reposetory aims to list all the word of every languages.
  - ~~[🇫🇷] Take some words from [this list](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) because this one contains more words (336531 instead of 22741 for the actual one)~~
 
 
-
+#### Projects
 
 
  ----
@@ -35,10 +35,14 @@ Ce repository a pour but de lister tout les mots de toutes les langues.
 ### Readme en español 🇪🇸
 Help needed
 
+#### Projects
+
 ----
 
 ### Readme em português 🇵🇹
 Help needed
+
+#### Projects
 
 ----
 
