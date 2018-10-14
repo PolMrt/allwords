@@ -22,7 +22,7 @@ This reposetory aims to list all the word of every languges.
 ### Readme en Français 🇫🇷
 Ce repository a pour but de lister tout les mots de toutes les langues.
 #### Todo
- - Réviser les mots englais car il y en a trop et des des inutiles
+ - Réviser les mots anglais car il y en a trop et des des inutiles
  
 
 ----
