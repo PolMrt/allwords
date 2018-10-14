@@ -1,10 +1,10 @@
 # All Words
 
 ## Menu
-- 🇬🇧 [List](https://github.com/PolMrt/allwords/blob/master/en/words.txt) `466 240 words`  - [Readme](https://github.com/PolMrt/allwords#readme-in-english-)
-- 🇫🇷 [List](https://github.com/PolMrt/allwords/blob/master/fr/words.txt) `336 531 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-) - [Projects]()
-- 🇪🇸 [List](https://github.com/PolMrt/allwords/blob/master/sp/words.txt) `249 374 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-espa%C3%B1ol-)
-- 🇵🇹 [List](https://github.com/PolMrt/allwords/blob/master/pt/words.txt) `189 247 words` - [Readme](https://github.com/PolMrt/allwords#readme-em-português-)
+- 🇬🇧 [List](https://github.com/PolMrt/allwords/blob/master/en/words.txt) `466 240 words`  - [Readme](https://github.com/PolMrt/allwords#readme-in-english-) - [Projects](https://github.com/PolMrt/allwords#projects)
+- 🇫🇷 [List](https://github.com/PolMrt/allwords/blob/master/fr/words.txt) `336 531 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-) - [Projects](https://github.com/PolMrt/allwords#projects-1)
+- 🇪🇸 [List](https://github.com/PolMrt/allwords/blob/master/sp/words.txt) `249 374 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-espa%C3%B1ol-) - [Projects](https://github.com/PolMrt/allwords#projects-2)
+- 🇵🇹 [List](https://github.com/PolMrt/allwords/blob/master/pt/words.txt) `189 247 words` - [Readme](https://github.com/PolMrt/allwords#readme-em-português-) - [Projects](https://github.com/PolMrt/allwords#projects-3)
 - [Sources ℹ](https://github.com/PolMrt/allwords#sources-%E2%84%B9)
 
 ----
