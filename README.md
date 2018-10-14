@@ -2,7 +2,7 @@
 
 ## Menu
 - 🇬🇧 [List](https://github.com/PolMrt/allwords/blob/master/en/words.txt) `466 240 words`  - [Readme](https://github.com/PolMrt/allwords#readme-in-english-)
-- 🇫🇷 [List](https://github.com/PolMrt/allwords/blob/master/fr/words.txt) `336 531 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-)
+- 🇫🇷 [List](https://github.com/PolMrt/allwords/blob/master/fr/words.txt) `336 531 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-) - [Projects]()
 - 🇪🇸 [List](https://github.com/PolMrt/allwords/blob/master/sp/words.txt) `249 374 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-espa%C3%B1ol-)
 - 🇵🇹 [List](https://github.com/PolMrt/allwords/blob/master/pt/words.txt) `189 247 words` - [Readme](https://github.com/PolMrt/allwords#readme-em-português-)
 - [Sources ℹ](https://github.com/PolMrt/allwords#sources-%E2%84%B9)
@@ -27,6 +27,8 @@ Ce repository a pour but de lister tout les mots de toutes les langues.
  - [🇬🇧] Réviser les mots car il y en a trop et des des inutiles
  - ~~[🇫🇷] Prendre des mots de [cette liste](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) car elle est plus complète que la liste actuelle (336531 au lieu de 22741 pour la liste actuelle)~~
 
+#### Projects
+> [Word Finder](https://w.pol.tf)
 
 ----
 
