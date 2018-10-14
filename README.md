@@ -1,9 +1,9 @@
 # All Words
 
 ## Menu
-- [Readme in english 🇬🇧](google.com)
-- [Readme en Français 🇫🇷]()
-- [Sources ℹ](https://github.com/PolMrt/allwords#sources)
+- [Readme in english 🇬🇧](https://github.com/PolMrt/allwords#readme-in-english-)
+- [Readme en Français 🇫🇷](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-)
+- [Sources ℹ](https://github.com/PolMrt/allwords#sources-%E2%84%B9)
 
 ----
 
