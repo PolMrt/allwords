@@ -22,7 +22,7 @@ This reposetory aims to list all the word of every languges.
 ### Readme en Français 🇫🇷
 Ce repository a pour but de lister tout les mots de toutes les langues.
 #### Todo
- - [🇬🇧] Réviser les mots anglais car il y en a trop et des des inutiles
+ - [🇬🇧] Réviser les mots car il y en a trop et des des inutiles
  - [🇫🇷] Prendre des mots de [cette liste](https://raw.githubusercontent.com/mmai/chiensuperieur/master/dictionnaires/liste.de.mots.francais.frgut.txt) car elle est plus complète que la liste actuelle (336531 au lieu de 22741 pour la liste actuelle)
  
 
