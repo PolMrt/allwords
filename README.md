@@ -2,7 +2,7 @@
 
 ## Menu
 - 🇬🇧 [List](https://github.com/PolMrt/allwords/blob/master/en/words.txt) `466 240 words`  - [Readme](https://github.com/PolMrt/allwords#readme-in-english-)
-- 🇫🇷 [List](https://github.com/PolMrt/allwords/blob/master/fr/words.txt) `22 740 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-)
+- 🇫🇷 [List](https://github.com/PolMrt/allwords/blob/master/fr/words.txt) `336 531 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-fran%C3%A7ais-)
 - 🇪🇸 [List](https://github.com/PolMrt/allwords/blob/master/sp/words.txt) `249 374 words` - [Readme](https://github.com/PolMrt/allwords#readme-en-espa%C3%B1ol-)
 - 🇵🇹 [List](https://github.com/PolMrt/allwords/blob/master/pt/words.txt) `189 247 words` - [Readme](https://github.com/PolMrt/allwords#readme-em-português-)
 - [Sources ℹ](https://github.com/PolMrt/allwords#sources-%E2%84%B9)
